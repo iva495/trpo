@@ -1,4 +1,4 @@
-(ns org.sitnov.trpo.task4
+(ns org.eliseev.trpo.task4
   (:use clojure.test))
 
 (load-file "task4.clj")
@@ -97,4 +97,4 @@
 )
 
 
-(run-tests 'org.sitnov.trpo.task4)
+(run-tests 'org.eliseev.trpo.task4)
